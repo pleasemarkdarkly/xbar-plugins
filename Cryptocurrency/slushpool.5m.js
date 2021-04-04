@@ -1,5 +1,4 @@
 #!/usr/bin/env /usr/local/bin/node
-"use 'esversion: 8'"; // travisci complaining about needing this even when the next line is provided
 "use 'esversion: 9'";
 
 /*
