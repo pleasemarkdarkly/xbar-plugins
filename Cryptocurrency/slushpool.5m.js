@@ -9,7 +9,7 @@
 # <xbar.author>Mark Phillips</xbar.author>
 # <xbar.author.github>pleasemarkdarkly</xbar.author.github>
 # <xbar.desc>TLDR; Displays Slushpool Profile/Worker information from its API Service. This is an Xbar/Bitbar macOS menu plugin which provided with a SLUSHPOOL API_KEY with at least ACCESS READ-ONLY will provide your hash rate statistic, mining proceeds unconfirmed, confirmed, expected proceeds and details about your workers including OK, OFF, and disconnectd.</xbar.desc>
-# <xbar.image>https://github.com/pleasemarkdarkly/slushpool-xbar-plugin/blob/main/images/slushpool-xbar-plugin.png?raw=true</xbar.image>
+# <xbar.image>https://github.com/pleasemarkdarkly/slushpool-xbar-plugin/blob/main/images/slushpool-xbar-plugin-smaller.png</xbar.image>
 # <xbar.dependencies>node</xbar.dependencies>
 # <xbar.abouturl>https://github.com/pleasemarkdarkly/slushpool-xbar-plugin/</xbar.abouturl>
 #
